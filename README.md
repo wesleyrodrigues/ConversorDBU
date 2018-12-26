@@ -1,7 +1,7 @@
 # ConversorDBU
 ConversorDBU(Decimal, Binário, Unicode(0 a 65535)) é uma aplicação de conversão de valores. Unicode &lt; 65536 devido **tkinter.TclError** causado pelo tkinter em valores decimais maiores.
 
-Você pode converter valores digitando em qualquer campo e pressinoando **Enter** ou então no botão **Converter**.
+Você pode converter valores digitando em qualquer campo e pressionando **Enter** ou então no botão **Converter**.
   - **Copiar** irá copiar o campo para a área de transferência.
   - **Colar** irá colar da área de transferência.
   - **Apagar** irá apagar o campo selecionado.
