@@ -30,3 +30,4 @@ Os botões maiores são para a aplicação inteira
   - Aplicação **botões** *Erros*;
     - caixa de mensagem *Desativar mensagens de erro*.
   
+![captura de tela 8](https://user-images.githubusercontent.com/32652300/50541356-75190380-0b7a-11e9-95a2-afed498355a9.png)
