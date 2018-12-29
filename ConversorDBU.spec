@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['ConversorDBU.py'],
-             pathex=['C:\\Users\\Wesley\\Documents\\Projetos Python\\Conversor BDU'],
+             pathex=['C:\\Users\\Wesley\\Documents\\ConversorDBU'],
              binaries=[],
              datas=[],
              hiddenimports=[],

@@ -1,5 +1,4 @@
-('C:\\Users\\Wesley\\Documents\\Projetos Python\\Conversor '
- 'BDU\\build\\ConversorDBU\\PKG-00.pkg',
+('C:\\Users\\Wesley\\Documents\\ConversorDBU\\build\\ConversorDBU\\PKG-00.pkg',
  {'BINARY': 1,
   'DATA': 1,
   'EXECUTABLE': 1,
@@ -8,8 +7,7 @@
   'PYSOURCE': 1,
   'PYZ': 0},
  [('PYZ-00.pyz',
-   'C:\\Users\\Wesley\\Documents\\Projetos Python\\Conversor '
-   'BDU\\build\\ConversorDBU\\PYZ-00.pyz',
+   'C:\\Users\\Wesley\\Documents\\ConversorDBU\\build\\ConversorDBU\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
    'c:\\users\\wesley\\appdata\\local\\programs\\python\\python37-32\\lib\\struct.pyo',
@@ -30,12 +28,10 @@
    'c:\\users\\wesley\\appdata\\local\\programs\\python\\python37-32\\lib\\site-packages\\PyInstaller\\loader\\rthooks\\pyi_rth__tkinter.py',
    'PYSOURCE'),
   ('ConversorDBU',
-   'C:\\Users\\Wesley\\Documents\\Projetos Python\\Conversor '
-   'BDU\\ConversorDBU.py',
+   'C:\\Users\\Wesley\\Documents\\ConversorDBU\\ConversorDBU.py',
    'PYSOURCE'),
   ('ConversorDBU.exe.manifest',
-   'C:\\Users\\Wesley\\Documents\\Projetos Python\\Conversor '
-   'BDU\\build\\ConversorDBU\\ConversorDBU.exe.manifest',
+   'C:\\Users\\Wesley\\Documents\\ConversorDBU\\build\\ConversorDBU\\ConversorDBU.exe.manifest',
    'BINARY')],
  True,
  False,
