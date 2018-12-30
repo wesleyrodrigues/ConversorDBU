@@ -1,3 +1,3 @@
 Para executar aplicação abra as pastas e execute o "ConversorDBU"
 
-dist/ConversorDBU/ConversorDBU.exe
+dist/ConversorDBU.exe ou dist/ConversorDBU/ConversorDBU.exe
