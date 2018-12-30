@@ -8,7 +8,7 @@ Você pode converter valores digitando em qualquer campo e pressionando **Enter*
   - **Apagar** apaga o campo selecionado.
 
 Os botões maiores são para a aplicação inteira
-  - ~~**Verificar atualização!** verifica por novas atualizações. ***Adicionado v1.1.1~~ Em testes***.
+  - ~~**Verificar atualização!** verifica por novas atualizações. ***Adicionado v1.1.1***~~ ***Em testes***.
     - Recomendo baixar [git](https://git-scm.com/).
   - **Fixo: Ativado** deixa os campos de entradas fixo, valores maiores não irão aparecer na tela.
   - **Fixo: Desativado** deixa os campos de entradas ajustado ao tamanho dos valores colocados.
