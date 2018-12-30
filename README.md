@@ -31,3 +31,7 @@ Os botões maiores são para a aplicação inteira
     - caixa de mensagem *Desativar mensagens de erro*.
   
 ![captura de tela 8](https://user-images.githubusercontent.com/32652300/50541356-75190380-0b7a-11e9-95a2-afed498355a9.png)
+
+**v1.1.1** Verificar atualização ***Em desenvolvimento***
+  - Adicionando botão verificar atualização ***Em desenvolvimento***
+  - Adicionado novo icone
