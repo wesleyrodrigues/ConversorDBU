@@ -37,3 +37,5 @@ Os botões maiores são para a aplicação inteira
 **v1.1.1** Verificar atualização 
   - Adicionando botão verificar atualização
   - Adicionado novo icone
+
+![captura de tela 10](https://user-images.githubusercontent.com/32652300/50549590-d3ef8300-0c35-11e9-9b94-8efad763f817.png)
