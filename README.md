@@ -8,6 +8,8 @@ Você pode converter valores digitando em qualquer campo e pressionando **Enter*
   - **Apagar** apaga o campo selecionado.
 
 Os botões maiores são para a aplicação inteira
+  - **Verificar atualização!** verifica por novas atualizações. ***Adicionado v1.1.1***.
+    - Recomendo baixar [git](https://git-scm.com/).
   - **Fixo: Ativado** deixa os campos de entradas fixo, valores maiores não irão aparecer na tela.
   - **Fixo: Desativado** deixa os campos de entradas ajustado ao tamanho dos valores colocados.
     - O tamanho dos campos muda ao converter os valores.
@@ -32,6 +34,6 @@ Os botões maiores são para a aplicação inteira
   
 ![captura de tela 8](https://user-images.githubusercontent.com/32652300/50541356-75190380-0b7a-11e9-95a2-afed498355a9.png)
 
-**v1.1.1** Verificar atualização ***Em desenvolvimento***
-  - Adicionando botão verificar atualização ***Em desenvolvimento***
+**v1.1.1** Verificar atualização 
+  - Adicionando botão verificar atualização
   - Adicionado novo icone
