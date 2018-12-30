@@ -40,4 +40,4 @@ Os botões maiores são para a aplicação inteira
 ![captura de tela 10](https://user-images.githubusercontent.com/32652300/50549590-d3ef8300-0c35-11e9-9b94-8efad763f817.png)
 
 **v1.1.2**
-  - Adicionado novo ***executável*** com novo icone em `dist/ConversorDBU.exe`
+  - Adicionado novo ***executável*** com novo icone em `dist/ConversorDBU.exe` ~~Mais pesado que outro para iniciar~~
