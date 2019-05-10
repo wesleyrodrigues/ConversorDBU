@@ -41,3 +41,7 @@ Os botões maiores são para a aplicação inteira
 
 **v1.1.2**
   - Adicionado novo ***executável*** com novo icone em `dist/ConversorDBU.exe` ~~Mais pesado que outro para iniciar~~
+
+**Em breve v1.1.3**
+  - Melhorias no desempenho total e confiabilidade.
+  - Corrigido o travamento do botão de ***verificar atualização***
